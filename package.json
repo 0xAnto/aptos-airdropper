@@ -1,0 +1,15 @@
+{
+  "name": "airdrop-apt",
+  "version": "0.0.1",
+  "description": "Airdropper tool for aptos blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0xAnto",
+  "license": "MIT",
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.13.3",
+    "dotenv": "^16.4.5"
+  }
+}
