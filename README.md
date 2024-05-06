@@ -5,6 +5,5 @@
 2. Update the network and your private key in [Airdrop](./src/airdrop.ts) file
 3. Set the txn type to `simulate` if you only want to simulate else use `execute` to execute the airdrop transaction
 
-
-### Note:
-    You can airdrop to up to 2580 addresses in a single transaction. If the user list contains more than 2580 addresses, the airdrop will be executed in multiple transactions, each with a maximum of 2580 addresses.
+> **Note:**
+> You can airdrop to up to 2580 addresses in a single transaction. If the user list contains more than 2580 addresses, the airdrop will be executed in multiple transactions, each with a maximum of 2580 addresses.
